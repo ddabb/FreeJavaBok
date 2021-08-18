@@ -1,0 +1,9 @@
+server:
+  port: 8083
+  servlet:
+    context-path: /springBootLearn
+projectName: Stone_LiuFirstJavaApplication
+student:
+  id: 121
+  name: 生产环境
+  age: 24
